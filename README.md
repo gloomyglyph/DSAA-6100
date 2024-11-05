@@ -1,8 +1,4 @@
-I’ll review the notebook you uploaded to understand its structure, purpose, and main features, then draft a README for GitHub based on that.
 
-Here’s a draft for the GitHub README based on the structure and sample content of your notebook:
-
----
 
 # Large Language Model Fine-Tuning with LoRA on Kaggle
 
