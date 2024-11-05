@@ -50,6 +50,3 @@ After training, the notebook includes sections for evaluating model accuracy and
 
 This project is released under the MIT License. 
 
----
-
-Let me know if you need additional details, such as example outputs or usage instructions!
